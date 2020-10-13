@@ -1,177 +1,177 @@
 !
 ! Section contains list of advertising networks
 !
-||nongzhifu.cn^$third-party
-||tyjryuk.cn^$third-party
-||v.rssnzw.cn^$third-party
-||c.cqpsf.cn^$third-party
-||c.jsbgh.cn^$third-party
-||c.lbsbbw.cn^$third-party
-||c.pcswtw.cn^$third-party
-||c.rssnzw.cn^$third-party
-||c.sssgbw.cn^$third-party
-||c.tgslww.cn^$third-party
-||c.tlscqw.cn^$third-party
-||c.tysjkw.cn^$third-party
-||v.cqpsf.cn^$third-party
-||v.jsbgh.cn^$third-party
-||v.lbsbbw.cn^$third-party
-||v.pcswtw.cn^$third-party
-||v.sssgbw.cn^$third-party
-||v.tgslww.cn^$third-party
-||v.tlscqw.cn^$third-party
-||v.tysjkw.cn^$third-party
-||tngmn.com^$third-party
-||kgnpwdf.cn^$third-party
-||rz261.cn^$third-party
-||mq.d6s3mov.cn^$third-party
-||yitai001.com^$third-party
-||0351dvd.cn^$third-party
-||zhy333.com^$third-party
-||daliantong.com.cn^$third-party
-||dxwpedu.me^$third-party
-||xkjxgt.com^$third-party
-||hbzjht.com^$third-party
-||xn--xhq9mt12cf5v.shop^$third-party
-||sdagxz.xyz^$third-party
-||betohomeall.com^$third-party
-||k2n0f.cn^$third-party
-||gzzkjdam.cn^$third-party
-||byscy.cn^$third-party
-||yclxrj.top^$third-party
-||fanzhuang.net.cn^$third-party
-||szwjzl.cn^$third-party
-||shilian168.cn^$third-party
-||nzydzsw.com^$third-party
-||1s8pj.cn^$third-party
-||loganaut.com^$third-party
-||9kh5b.cn^$third-party
-||jmg67g.xyz^$third-party
-||hbfls.vip^$third-party
-||zbsybh.cn^$third-party
-||qinongyouxuan.cn^$third-party
-||qguwoq.cn^$third-party
-||yxgfcj.com^$third-party
-||t.yzwr588.com^$third-party
-||qarsza.cn^$third-party
-||jgstny.com^$third-party
-||yijuxie.com^$third-party
-||pv.ldlwdsx.com^$third-party
-||ee.m08pe.cn^$third-party
-||im.51yaliesha.com^$third-party
-||xn--mtso8sj6menhyil.online^$third-party
-||xn--xhq9mt12cf5v.top^$third-party
-||vip.ludu319.com^$third-party
-||huaerdadi.com^$third-party
-||jsckjqr.com^$third-party
-||jg1668.com^$third-party
-||a.breaktime.com.tw^$third-party
-||power.adhacker.online^$third-party
-||a.tyncar.com^
-||og.zyzjpx.cn^$third-party
-||kolur.top^$third-party
-||x.dmouy.cn^$third-party
-||tu.7j813.cn^$third-party
-||ulfex.cn^$third-party
-||haoxxwang.com^$third-party
-||a32a.com.cn^$third-party
-||4df5ef.xyz^$third-party
-||vpn.baolq666.com^$third-party
-||lychangxu.cn^$third-party
-||luyongkang.top^$third-party
-||aitaoshegnqian.cn^$third-party
-||js.xz6d.com^$third-party
-||26gg.bnq86.com^$third-party
-||vip.min1319.com^$third-party
-||xn--2qux23confgml.club^$third-party
-||hisnote.cc^$third-party
-||91say.cc^$third-party
-||m.dglscm.cn^$third-party
-||m.91heima.cn^$third-party
-||m.nanyangqiaoxiang.cn^$third-party
-||m.szyuke.cn^$third-party
-||m.ailezhai.cn^$third-party
-||m.m216j.cn^$third-party
-||87uq.com^$third-party
-||tongbaimi.cn^$third-party
-||hongjiujiaoyi.com^$third-party
-||safe524.xyz^$third-party
-||alitx963.com^$third-party
-||vivi987.com^$third-party
-||ad.muyang888.top^
-||ad8888.top^
-||m.gtask.cn^$third-party
-||ee.32z8d.cn^$third-party
-||r528e.cn^$third-party
-||clscsbcj.com^$third-party
-||m.ercos.cn^$third-party
-||m.gongzhilian.com.cn^$third-party
-||d.6xw.com^
-||mgzjin.cn^$third-party
-||9h5qq.cn^$third-party
-||fgo22.info^$third-party
-||chinagcdxyjng.cn^$third-party
-||glzyw.com^$third-party
-||192.151.218.66^$third-party
-||23.224.89.2^$third-party
-||shentuwang1.com^$third-party
-||ofd.meng-an.cn^$third-party
-||qsmdeyz.cn^$third-party
-||qienews.cn^$third-party
-||fowpq.top^$third-party
-||ktionz.com^$third-party
-||pv.dakawm.cc^$third-party
-||zhongwangmy.cn^$third-party
-||xn-2qux23confgml.club^$third-party
-||cwmlm.com^$third-party
-||mvo.g45td.xyz^
-||eco.2t4fe.xyz^
-||nvmsa.top^$third-party
-||m.21haodianmt.com^$third-party
-||web.51fishplace.com^$third-party
-||lyfwpt.com.cn^$third-party
-||cdntlz.cn^$third-party
-||rr.pochengweiyuan.com^$third-party
-||m.qhxcdmfj.cn^$third-party
-||m.zwsteel.cn^$third-party
-||photo.bscy05.cn^$third-party
-||ssl.zy3dku.cn^$third-party
-||olxt.top^$third-party
-||js.union123.me^$third-party
-||emdcadvertise.eastmoney.com^
-||szjyfund.com^$third-party
-||wowoyy.cc^$third-party
-||9uys.co^$third-party
-||y.21haodianmt.com^$third-party
-||cnzz.c62v.cn^$third-party
-||xunlaile.com^$third-party
-||niulail.top^
-||23dsf.top^
-||156.233.32.123^$third-party
-||i3535.com^$third-party
-||1990tu.com^$third-party
-||web-ad.xyz^$third-party
-||dlads.cn^$third-party
-||chushoushijian.cn^$third-party
-||u.xogu.cn^$third-party
-||lk.4jzl.cn^$third-party
-||eo.sdahxz.xyz^$third-party
-||spl.ztvx8.com^$third-party
-||qaops.jgwsmqx.com^$third-party
-||xn--wxtr9fwyxk9c.club^$third-party
-||zhangguangzong.com^$third-party
-||taoguohe.com^$third-party
-||kolsh.cn^$third-party
-||mo.vlpyj.xy^$third-party
-||2cnjuh34jbman.com^$third-party
-||ulukaris.com^$third-party
-||evangelineang.com^$third-party
-||dr.atwoodubre.com^$third-party
-||allowfencelist.com^$third-party
-||elijahlio.com^$third-party
-||itadapi.ithome.com.tw^
-||t.njzrxx.xyz^$third-party
-||f.zgbmw.com.cn^$third-party
-||83.locksmaker.com.cn^$third-party
-||yqrta.xyz^$third-party
-||zjgfq.com^$third-party
+127.0.0.1 nongzhifu.cn
+127.0.0.1 tyjryuk.cn
+127.0.0.1 v.rssnzw.cn
+127.0.0.1 c.cqpsf.cn
+127.0.0.1 c.jsbgh.cn
+127.0.0.1 c.lbsbbw.cn
+127.0.0.1 c.pcswtw.cn
+127.0.0.1 c.rssnzw.cn
+127.0.0.1 c.sssgbw.cn
+127.0.0.1 c.tgslww.cn
+127.0.0.1 c.tlscqw.cn
+127.0.0.1 c.tysjkw.cn
+127.0.0.1 v.cqpsf.cn
+127.0.0.1 v.jsbgh.cn
+127.0.0.1 v.lbsbbw.cn
+127.0.0.1 v.pcswtw.cn
+127.0.0.1 v.sssgbw.cn
+127.0.0.1 v.tgslww.cn
+127.0.0.1 v.tlscqw.cn
+127.0.0.1 v.tysjkw.cn
+127.0.0.1 tngmn.com
+127.0.0.1 kgnpwdf.cn
+127.0.0.1 rz261.cn
+127.0.0.1 mq.d6s3mov.cn
+127.0.0.1 yitai001.com
+127.0.0.1 0351dvd.cn
+127.0.0.1 zhy333.com
+127.0.0.1 daliantong.com.cn
+127.0.0.1 dxwpedu.me
+127.0.0.1 xkjxgt.com
+127.0.0.1 hbzjht.com
+127.0.0.1 xn—xhq9mt12cf5v.shop
+127.0.0.1 sdagxz.xyz
+127.0.0.1 betohomeall.com
+127.0.0.1 k2n0f.cn
+127.0.0.1 gzzkjdam.cn
+127.0.0.1 byscy.cn
+127.0.0.1 yclxrj.top
+127.0.0.1 fanzhuang.net.cn
+127.0.0.1 szwjzl.cn
+127.0.0.1 shilian168.cn
+127.0.0.1 nzydzsw.com
+127.0.0.1 1s8pj.cn
+127.0.0.1 loganaut.com
+127.0.0.1 9kh5b.cn
+127.0.0.1 jmg67g.xyz
+127.0.0.1 hbfls.vip
+127.0.0.1 zbsybh.cn
+127.0.0.1 qinongyouxuan.cn
+127.0.0.1 qguwoq.cn
+127.0.0.1 yxgfcj.com
+127.0.0.1 t.yzwr588.com
+127.0.0.1 qarsza.cn
+127.0.0.1 jgstny.com
+127.0.0.1 yijuxie.com
+127.0.0.1 pv.ldlwdsx.com
+127.0.0.1 ee.m08pe.cn
+127.0.0.1 im.51yaliesha.com
+127.0.0.1 xn--mtso8sj6menhyil.online
+127.0.0.1 xn--xhq9mt12cf5v.top
+127.0.0.1 vip.ludu319.com
+127.0.0.1 huaerdadi.com
+127.0.0.1 jsckjqr.com
+127.0.0.1 jg1668.com
+127.0.0.1 a.breaktime.com.tw
+127.0.0.1 power.adhacker.online
+127.0.0.1 a.tyncar.com
+127.0.0.1 og.zyzjpx.cn
+127.0.0.1 kolur.top
+127.0.0.1 x.dmouy.cn
+127.0.0.1 tu.7j813.cn
+127.0.0.1 ulfex.cn
+127.0.0.1 haoxxwang.com
+127.0.0.1 a32a.com.cn
+127.0.0.1 4df5ef.xyz
+127.0.0.1 vpn.baolq666.com
+127.0.0.1 lychangxu.cn
+127.0.0.1 luyongkang.top
+127.0.0.1 aitaoshegnqian.cn
+127.0.0.1 js.xz6d.com
+127.0.0.1 26gg.bnq86.com
+127.0.0.1 vip.min1319.com
+127.0.0.1 xn--2qux23confgml.club
+127.0.0.1 hisnote.cc
+127.0.0.1 91say.cc
+127.0.0.1 m.dglscm.cn
+127.0.0.1 m.91heima.cn
+127.0.0.1 m.nanyangqiaoxiang.cn
+127.0.0.1 m.szyuke.cn
+127.0.0.1 m.ailezhai.cn
+127.0.0.1 m.m216j.cn
+127.0.0.1 87uq.com
+127.0.0.1 tongbaimi.cn
+127.0.0.1 hongjiujiaoyi.com
+127.0.0.1 safe524.xyz
+127.0.0.1 alitx963.com
+127.0.0.1 vivi987.com
+127.0.0.1 ad.muyang888.top
+127.0.0.1 ad8888.top
+127.0.0.1 m.gtask.cn
+127.0.0.1 ee.32z8d.cn
+127.0.0.1 r528e.cn
+127.0.0.1 clscsbcj.com
+127.0.0.1 m.ercos.cn
+127.0.0.1 m.gongzhilian.com.cn
+127.0.0.1 d.6xw.com
+127.0.0.1 mgzjin.cn
+127.0.0.1 9h5qq.cn
+127.0.0.1 fgo22.info
+127.0.0.1 chinagcdxyjng.cn
+127.0.0.1 glzyw.com
+127.0.0.1 192.151.218.66
+127.0.0.1 23.224.89.2
+127.0.0.1 shentuwang1.com
+127.0.0.1 ofd.meng-an.cn
+127.0.0.1 qsmdeyz.cn
+127.0.0.1 qienews.cn
+127.0.0.1 fowpq.top
+127.0.0.1 ktionz.com
+127.0.0.1 pv.dakawm.cc
+127.0.0.1 zhongwangmy.cn
+127.0.0.1 xn-2qux23confgml.club
+127.0.0.1 cwmlm.com
+127.0.0.1 mvo.g45td.xyz
+127.0.0.1 eco.2t4fe.xyz
+127.0.0.1 nvmsa.top
+127.0.0.1 m.21haodianmt.com
+127.0.0.1 web.51fishplace.com
+127.0.0.1 lyfwpt.com.cn
+127.0.0.1 cdntlz.cn
+127.0.0.1 rr.pochengweiyuan.com
+127.0.0.1 m.qhxcdmfj.cn
+127.0.0.1 m.zwsteel.cn
+127.0.0.1 photo.bscy05.cn
+127.0.0.1 ssl.zy3dku.cn
+127.0.0.1 olxt.top
+127.0.0.1 js.union123.me
+127.0.0.1 emdcadvertise.eastmoney.com
+127.0.0.1 szjyfund.com
+127.0.0.1 wowoyy.cc
+127.0.0.1 9uys.co
+127.0.0.1 y.21haodianmt.com
+127.0.0.1 cnzz.c62v.cn
+127.0.0.1 xunlaile.com
+127.0.0.1 niulail.top
+127.0.0.1 23dsf.top
+127.0.0.1 156.233.32.123
+127.0.0.1 i3535.com
+127.0.0.1 1990tu.com
+127.0.0.1 web-ad.xyz
+127.0.0.1 dlads.cn
+127.0.0.1 chushoushijian.cn
+127.0.0.1 u.xogu.cn
+127.0.0.1 lk.4jzl.cn
+127.0.0.1 eo.sdahxz.xyz
+127.0.0.1 spl.ztvx8.com
+127.0.0.1 qaops.jgwsmqx.com
+127.0.0.1 xn—wxtr9fwyxk9c.club
+127.0.0.1 zhangguangzong.com
+127.0.0.1 taoguohe.com
+127.0.0.1 kolsh.cn
+127.0.0.1 mo.vlpyj.xy
+127.0.0.1 2cnjuh34jbman.com
+127.0.0.1 ulukaris.com
+127.0.0.1 evangelineang.com
+127.0.0.1 dr.atwoodubre.com
+127.0.0.1 allowfencelist.com
+127.0.0.1 elijahlio.com
+127.0.0.1 itadapi.ithome.com.tw
+127.0.0.1 t.njzrxx.xyz
+127.0.0.1 f.zgbmw.com.cn
+127.0.0.1 83.locksmaker.com.cn
+127.0.0.1 yqrta.xyz
+127.0.0.1 zjgfq.com
